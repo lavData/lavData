@@ -1,7 +1,7 @@
 - 👋 Hi, I’m VU LE ANH
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data engineer/ Data Science
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking for a new intern job about Data like Data engineer/ Data Science
 - 📫 How to reach me via vule1892001@gmail.com
 
 <!---
